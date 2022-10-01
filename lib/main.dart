@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
               const Text(
                 'المهندس نزار معروف',
                 style: TextStyle(
-                  fontFamily: 'Cairo',
+                  fontFamily: 'CairoPlay',
                   fontSize: 38.0,
                   color: Colors.white,
                   fontWeight: FontWeight.bold,
@@ -35,6 +35,7 @@ class MyApp extends StatelessWidget {
               Text(
                 'مهندس كهرباء ومبرمج تطبيقات',
                 style: TextStyle(
+                  fontFamily: 'CairoPlay',
                   color: Colors.grey.shade200,
                   fontSize: 22.0,
                   fontWeight: FontWeight.bold,
@@ -57,8 +58,9 @@ class MyApp extends StatelessWidget {
                   title: const Text(
                     '+972 52 7908901',
                     style: TextStyle(
+                      fontFamily: 'Lateef',
                       color: Colors.black87,
-                      fontSize: 20.0,
+                      fontSize: 30.0,
                     ),
                   ),
                 ),
@@ -73,7 +75,8 @@ class MyApp extends StatelessWidget {
                   title: const Text(
                     'nizar1974.maarouf@gmail.com',
                     style: TextStyle(
-                      fontSize: 20.0,
+                      fontFamily: 'Lateef',
+                      fontSize: 26.0,
                       color: Colors.black87,
                     ),
                   ),
